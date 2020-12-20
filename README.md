@@ -1,5 +1,5 @@
 # basemodel
-### A very basic model for Django>2.0.
+### A very basic abstract model for Django>2.0.
 ### Included fields:
 - uuid: unique ID to guarantee uniqueness across different systems. Can be used for safely merging tables while preventing Primary Key conflicts.
 - timestamp: registeres a timestamp of the object's creation.
